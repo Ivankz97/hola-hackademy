@@ -1,7 +1,2 @@
-Archivo local para remoto
-A
-
-B
-B
-A
-
+Archivo para remoto
+Archivo para remoto
